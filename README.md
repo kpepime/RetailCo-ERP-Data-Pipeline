@@ -2,7 +2,6 @@
 
 A production-grade data pipeline for RetailCo, a Nigerian retail chain with stores in Lagos, Abuja, Port Harcourt, and Kano. The pipeline extracts data from a live ERP API, loads it into a data warehouse, and transforms it into analytics-ready Kimball dimensional models, orchestrated end to end by Apache Airflow.
 
-[**Demo Video**](https://drive.google.com/file/d/1dU2AJ2SlhWc4srq32vITGXZ5804PWMN0/view?usp=sharing)
 
 ---
 
@@ -439,12 +438,3 @@ HNG_task8_groupH/
 ```
 
 ---
-
-## Team
-
-| Person | Role | Checkpoints |
-|---|---|---|
-| Person A (Miss Cryptic) | Design + Orchestration | CP1, CP5 |
-| Person B (KB) [TL]| Extraction | CP2 |
-| Person C (Tolufashe)| Loading | CP3 |
-| Person D (AnalystMund)| Modelling | CP4 |
